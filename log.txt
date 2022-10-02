@@ -1,0 +1,17 @@
+Recording data at 2022-10-01 18:06:31.081365 | ['Semenov', 'Anton', '+787669897', 'manager', '1000000']
+Research data at 2022-10-01 18:07:15.685935 | Semenov
+Research data at 2022-10-01 18:07:55.323955 | Perovskiy
+Recording data at 2022-10-01 19:50:12.058869 | ['Ivanov', 'Ivan', '+78766757456', 'manager', '1000000']
+Research data at 2022-10-01 19:50:31.101481 | Ivanov
+Delete data at 2022-10-02 10:39:39.342244 | None
+Delete data at 2022-10-02 10:52:22.278943 | None
+Delete data at 2022-10-02 10:53:35.631600 | None
+Recording data at 2022-10-02 10:54:15.042156 | ['Perovskiy', 'Artem', '+8787687', 'Chief', '2000000']
+Recording data at 2022-10-02 10:55:24.441397 | ['Perovskaya', 'Ekaterina', '+76576897', 'manager', '2000000']
+Research data at 2022-10-02 10:56:00.049542 | Ekaterina
+Delete data at 2022-10-02 10:56:18.770166 | None
+Delete data at 2022-10-02 11:00:50.791250 | None
+Wrong input at 2022-10-02 11:15:00.494887 | Wrong input!
+Recording data at 2022-10-02 11:15:58.803342 | ['Petrov', 'Petr', '+8767889', 'director', '2000000']
+Research data at 2022-10-02 11:16:11.764829 | director
+Delete data at 2022-10-02 11:16:29.502028 | Petr
